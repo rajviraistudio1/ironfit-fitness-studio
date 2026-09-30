@@ -1,0 +1,6 @@
+{
+  "name": "IronFit Fitness Studio — 30-Day Fitness Challenge",
+  "description": "Join the IronFit 30-Day Fitness Challenge in HSR Layout, Bengaluru. Get professional fitness guidance and take the next step toward your fitness goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
